@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/09ec6fed8b795bd55056bce253d0a8a71dc30255/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_440a858e8be6abdd9229d3df5c9ccf9921b30bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/225c93180e898237d169476d0fe8d87c3faaf161/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_5c6b9046f1a3f9ee137e3aabea37a71c42f320a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.2_3058259966b6a3ac4e90a7a5f44c1612de3685b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/3d908ba538077fe3874afedfe1f7be3161f0cc70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_32923310fd5d1256be51ee961721dc20d1dd59b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/b5541fd121add42faa641c83be2994941a71fc83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_af90154486c7e3dc3546c66e4d3c941e82fc0668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/594ab63403ceb80152c4768a587cb67c1e351d88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_981c86068894c4770932a8ac0c7640539ae00822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/Documents/Development/android-sdks/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0b7356d4da0f7dcf06a2dc4b3305202525e86e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/3f478781e9474bcdd959152d50027f60d4b1692f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_70af108ad21f7106406f3f0bf48cd4a728a12a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/3c661808a78d16a84ae4a80d14be20a6fc50c775/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_b3cc531a73550d94b62f0941f78efaf057a9bba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/5fece17dbfe84ad7c2d0cd4c59b6477adb1ab4e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_25559e9aca5f1c71e14595c5c45c349ddfd539b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/Documents/Development/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d5ba09ca8f84e32145dfa4ae4802732ed9f54c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/67023b00bc8c9c40cb58ccdaf4658c916f9f82d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_1a8b79417a23a1e59ecd46f74e8a78523e66aa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/65b95cf97c582d2c34e6c97a4c5fd6ceb7b38de4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_1c874ce797bdfd515167a1d8c466f7554f27721a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/592644addf574eade7da986986922e97009810e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_cddbd7c89bbcb07d88fb26a7361a4dbaaf6ca165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.6/de0c509ae6c9db5b5b6004a9d102c92708346f7c/rxjava-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de0c509ae6c9db5b5b6004a9d102c92708346f7c">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/rxjava-1.2.6_e6bd94433a4f8c1b29d42b3009b7c32297330da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/39e5bb13ab201a04193d4f260ca2427dc70fd336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_a4191d4e19d7a27700d6bbcebe70bd06608289e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/0d8f45ef14df5006b1c41493830c7c0368745028/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_5511cf6ba91daf45af3841e797c30e71304378ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/930d0a98e6efc7157c3e4339431b719631140c44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_25b6f318f9787768dc7eb07814be1d0c49b52e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_63f5f92f6c7caead045f8057a627ce5cb977d04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/varturas/.android/build-cache/f89beefc0676b2d2e6d96a696e4c62a29e374592/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/varturas/Documents/workspace/monbaby_android_developex/monbaby_android_test/app/build/intermediates/pre-dexed/debug/classes_4e7634f1407e4159d8f54c5b31f0ba71010e6210.jar" />
+    </item>
+
+</items>

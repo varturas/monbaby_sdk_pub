@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonExample</string>
+    <string name="devices_found">Select device:</string>
+</resources>
